@@ -143,6 +143,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     alignSelf: 'center'
   },
+  
   result: {
     fontSize: mobileW * 6 / 100,
     fontWeight: "bold",
